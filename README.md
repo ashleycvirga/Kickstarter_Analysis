@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project analyzes Kickstarter data to uncover trends in campaign strategies. It organizes, sorts, and filters the data set to focus on Theater Campaigns, specifically the plays subcategory. The project continues by narrowing in on two main strategic factors: campaign launch dates and campaign funding goals.  
+This project analyzes Kickstarter data to uncover trends in campaign strategies. It organizes, sorts, and filters the data set to focus on Theater Campaigns, specifically the "plays" subcategory. The project continues by narrowing in on two main strategic factors: campaign launch dates and campaign funding goals.  
 
 ### Purpose
 
@@ -16,11 +16,11 @@ The catagorical data for the type of campaign was separated into parent categori
 
 Data was then sorted into pivot tables that narrowed in on how different campaigns fared in relation to their launch date as the client, Louise requested.
 
-Created the first pivot table sorting Kickstarter data by three of the four potemtial Outcomes, "successful," "failed," and "canceled," and filtering for the "Theater" parent category and "Years." This table may be found on the sheet titled "Theater Outcomes by Launch Date". 
+I created the first pivot table sorting Kickstarter data by three of the four potential Outcomes, "successful," "failed," and "canceled," while filtering for the "Theater" parent category and "Years." This table may be found on the sheet titled "Theater Outcomes by Launch Date". 
 
 In the creation of our first pivot table, we could immediatly see significant numbers of successful campaigns were launched in May and June for all of the years recorded in the data set. 
 
-While a greater number of campaigns overall were also launched in these two months, looking at a line graph shows a large gap between the successful campaigns line and the lines for failed or canceled campaigns. This could be demonstrative of a possible trend in success for campaigns launched in May and June. 
+While a greater number of campaigns overall were also launched in these two months, looking at a line graph shows a large gap between the "successful" campaigns line and the lines for "failed" or "canceled" campaigns. This could be demonstrative of a possible trend in success for campaigns launched in May and June. 
 
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)     
 
